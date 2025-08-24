@@ -9,7 +9,8 @@ If you’re just getting started with the Upstox API or want a ready-made workfl
 - Historical OHLCV candles for supported instruments
 - Multiple intervals (e.g., 1m, 5m, 15m, 1h, 1d)
 - Output to json
-TODO
+
+##TODO
 - Date-range batching with retry/backoff to respect API limits
 - Output to CSV and/or Parquet
 - Simple configuration via environment variables
@@ -76,5 +77,6 @@ upstox-api-data-ohlc/
 Issues and pull requests are welcome! Please:
 - Open an issue describing the change or bug.
 - Keep PRs focused and well-tested.
+
 
 
