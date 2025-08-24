@@ -54,8 +54,6 @@ Helpful links:
   ```
 
 ## Project Structure
-
-A typical layout might look like:
 ```
 upstox-api-data-ohlc/
 ├─ requirements.txt
@@ -77,6 +75,7 @@ upstox-api-data-ohlc/
 Issues and pull requests are welcome! Please:
 - Open an issue describing the change or bug.
 - Keep PRs focused and well-tested.
+
 
 
 
